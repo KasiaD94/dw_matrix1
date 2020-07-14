@@ -1,2 +1,3 @@
-# dw_matrix1
-Data Workshop - Projekt Transformacja 1.
+# Projekt z DataWorkshop - "Transformacja, czyli poznaj reguły gry"
+
+Tu pojawią się zadania z projektu transformacji - część I.
